@@ -1,0 +1,4 @@
+{
+  "compilerOptions": {},
+  "include": ["./node_modules/@popclip/types/popclip.d.ts", "./src/**/*.ts"]
+}
