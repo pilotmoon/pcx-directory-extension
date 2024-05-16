@@ -1,3 +1,3 @@
-# PopClip Template -- EDIT ME!
+# Submit Extension
 
-TypeScript template repo for PopClip extensions.
+An extension for subitting extensions to the directory.
